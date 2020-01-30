@@ -1,0 +1,221 @@
+html,
+body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links>a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+.nav-link {
+    color: black !important;
+    margin-left: 15px;
+    font-weight: bolder;
+}
+
+h5 {
+    font-size: 32px !important;
+    font-style: italic !important;
+    font-weight: 400 !important;
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+    color: #333333ff !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card-body {
+    background: #E8E8E8;
+    opacity: 80%;
+}
+
+.widget {
+    margin-top: 100px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+footer {
+    background: aquamarine;
+}
+
+.footer-copyright {
+    font-size: 15px !important;
+    color: #333333ff;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+    font-style: italic;
+    text-align: justify;
+    margin-top: 20px;
+}
+
+.col-lg-1 {
+    background: url(/images/pozadina.jpeg);
+}
+
+#pozadina {
+    background: url(/images/pozadina.jpeg);
+}
+
+.nav-item {
+    font-size: 24px;
+}
+
+a:hover {
+    background-color: aquamarine;
+}
+
+.p-5 {
+    text-align: center;
+    background: url(/images/pozadina.jpeg);
+}
+
+.vreme {
+    border: 1px solid aquamarine;
+    height: 220px;
+    border-radius: 25px;
+    background: whitesmoke;
+    font-weight: bold;
+}
+
+h4 {
+    font-style: italic;
+    margin-top: 25px;
+}
+
+.widgets {
+    background: url(/images/pozadina.jpeg);
+}
+
+.col-lg-4 {
+    padding-right: 0px !important;
+}
+
+.col-lg-10 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+i {
+    color: rgb(76, 81, 151);
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+th,
+td {
+    text-align: center;
+}
+
+.rosybrown {
+    background: rosybrown;
+    border: none;
+}
+
+.naslov {
+    font-size: 1.5em;
+    color: black;
+}
+
+label {
+    color: black;
+    font-weight: bold;
+}
+
+legend {
+    color: black;
+    font-size: 2em;
+}
+
+#prepisani {
+    background: fixed;
+    width: 130px;
+}
+
+#dodavanje {
+    font-size: 14px;
+    width: 180px;
+}
+
+#bolesti {
+    font-size: 14px;
+    width: 180px;
+}
+
+#korisnik {
+    font-size: 14px;
+    width: 205px;
+}
+
+#login {
+    background: #979AAA;
+    border: none;
+    font-size: 20px;
+    font-style: italic;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#info {
+    color: rgb(75, 84, 202);
+}
+
+h6 {
+    margin-top: 10px;
+}
+
+.text-sm-center {
+    font-style: italic;
+}
+
+.row {
+    width: 101%;
+}
