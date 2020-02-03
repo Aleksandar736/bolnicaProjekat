@@ -17,13 +17,8 @@ use App\Bolest;
 use App\Pregledi;
 
 Route::get('/', function () {
-   // return "ZDRAVO";
    return view('welcome');
 });
-// Route::get('/korisnik', function () {
-//    //return "ZDRAVO";
-//    return view('korisnik');
-// });
 
 //Glavne stranice
 Route::get('/home', 'HomeController@index')->name('home');
